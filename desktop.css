@@ -1,0 +1,107 @@
+body {
+	width: 1020px;
+	margin: 0 auto;
+	padding: 0px;
+	color: black;
+	background-color: #F0F8FF;
+	font-family: verdana, helvetica, arial, sans-serif;
+	font-size: 14px;
+	}
+
+a {
+    text-decoration: none;
+	}
+
+em {
+	font-style: italic;
+	font-weight: bold;
+	}
+
+h1 {
+	font-size: 24px;
+	margin-bottom: 0.5em;
+	}
+
+h2 {
+	font-size: 20px;
+	margin-bottom: 0.5em;
+	}
+
+h3 {
+	font-size: 16px;
+	margin-bottom: 0.5em;
+	}
+	
+img {
+	border: 0px;
+	}
+	
+p {
+	margin-top: 0.2em;
+	margin-bottom: 1em;
+	line-height: 130%;
+	}
+
+strong {
+	font-weight: bold;
+	}
+
+header {
+	display: block;
+	margin: 0;
+	padding: 20px;
+	color: #c0c0e0;
+	background-color: #202080;
+	background-image: url(nature-hd-background-10.jpg);
+	height: 120px;
+	}
+
+header h1 {
+    font-size: 48px;
+    color: white;
+	}
+
+nav a {
+	color: #c0c0e0;
+	}
+
+nav a:visited {
+	color: #000000;
+	}
+
+nav a:hover {
+	color: white;
+	}
+
+section {
+	display: block;
+	margin: 0;
+	padding: 20px;
+	background-color: #e0e0f0;
+	}
+
+footer {
+	display: block;
+	margin: 0;
+	padding: 20px;
+	color: #c0c0e0;
+	background-color: #402080;
+	font-size: 12px;
+	}
+
+footer a {
+	color: #8080a0;
+	}
+
+footer a:visited {
+	color: #8080a0;
+	}
+	
+footer a:hover {
+	color: #c0c0e0;
+	}
+	
+nav{
+  Background-color:#87CEEB
+  
+}
